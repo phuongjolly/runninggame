@@ -1,0 +1,23 @@
+{
+  "name": "ServerKit",
+  "version": "0.0.1",
+  "homepage": "https://github.com/banhtieu/ServerKit",
+  "authors": [
+    "banhtieu"
+  ],
+  "description": "A solid framework for creating server for games and webs.",
+  "main": "index.html",
+  "keywords": [
+    "serverkit",
+    "game",
+    "websocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
